@@ -6,3 +6,5 @@ I am more into testing applications rather than developing it. Could test softwa
 Due to the background of IT I know basics in HTML, CSS and Python.
 
 Open to any ideas and projects on this open-source platform.
+
+Interested in Infosec!
